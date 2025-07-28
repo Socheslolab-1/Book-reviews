@@ -1,6 +1,6 @@
 # 📚 Book Reviews
 
-**Book Reviews** is a web application / project (specify if necessary) designed to store, view and analyze book reviews.
+**Book Reviews** is a web application designed to store, view and analyze book reviews.
 The goal of the project is to simplify the process of exchanging opinions about the literature read and to help users find interesting books based on ratings and reviews.
 
 ---
